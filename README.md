@@ -66,6 +66,7 @@ Exercises are meant to get students comfortable with solving problems without an
 
 ###Other Resources###
 [140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)
+[Math-heavy Big O Notation](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
 
 Data Structure Enhancements
 ===========================
