@@ -6,10 +6,10 @@ Basic functions
 
 ##Exercises##
 1. [String Parsing](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md)
-	1. Reverse
-	2. Palindromes
-	3. Substr
-	4. Split
+	1. [Reverse](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#reverse)
+	2. [Palindromes](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#palindromes)
+	3. [Substr](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#substr)
+	4. [Split](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#split)
 2. List Searching
 	1. Missing Number
 	2. Highest Int
