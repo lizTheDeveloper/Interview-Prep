@@ -5,10 +5,11 @@ Basic functions
 ================
 
 ##Exercises##
-1. String Parsing
+1. [String Parsing](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md)
 	1. Reverse
 	2. Palindromes
 	3. Substr
+	4. Split
 2. List Searching
 	1. Missing Number
 	2. Highest Int
@@ -67,6 +68,7 @@ Exercises are meant to get students comfortable with solving problems without an
 ###Other Resources###
 [140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)
 [Math-heavy Big O Notation](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
+[Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 Data Structure Enhancements
 ===========================
