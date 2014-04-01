@@ -15,14 +15,14 @@ Basic functions
 	2. [Highest Int](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highest-int)
 	3. [Highly Divisible](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highly-divisible)
 	4. [Binary Search](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#binary-search)
-3. List Sorting
+3. [List Sorting](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md)
 	1. Sorts
-		1. bubble
-		2. merge
-		3. quick
+		1. [bubble](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#bubble-sort)
+		2. [merge](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#merge-sort)
+		3. [quick](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#quicksort)
 	2. Partial Sorts
-		1. find top ten
-		2. pivot
+		1. [find top ten](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
+		2. [pivot](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
 4. Math Things
 	1. Prime Numbers
 		1. return the nth prime
