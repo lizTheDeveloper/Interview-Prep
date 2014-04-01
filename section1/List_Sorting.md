@@ -95,7 +95,7 @@ Given an unordered list of integers, find the center integer. Then, move all int
 
 
 Examples:  
-[0,5,6,8,2,3,4,1,7] -> [0,2,3,1,4,5,6,8,7]
+`[0,5,6,8,2,3,4,1,7]` -> `[0,2,3,1,4,5,6,8,7]`  
 4 is the pivot number, and the original order is preserved.
 
 
