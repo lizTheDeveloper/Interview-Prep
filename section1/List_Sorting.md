@@ -77,6 +77,9 @@ x = 5
 ###Exercise###
 Given an unordered list of integers, return the 10 highest integers.
 
+Advanced:  
+How would you do this for a much larger array (EG, 10 million numbers? a trillion numbers?)
+
 
 Examples:  
 `[2,9,88,8,24,27,4,6,63,1,34,6,48,9,55,2,21,25,52,75,80,50,56,86,25,9,68,86,32,742,6732,753,13,6,4,32,5,65,3,2]` 
