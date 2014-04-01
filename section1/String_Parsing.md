@@ -13,8 +13,8 @@ String Parsing
 Write a function that accepts a string as input. It should return that string, reversed. You are not allowed to use inbuilt methods.
 
 Examples:  
-"abc" -> "cba"  
-"cats" -> "stac"  
+`"abc"` -> `"cba"`  
+`"cats"` -> `"stac"`  
 
 Solutions:
 
@@ -33,10 +33,10 @@ Write a function that accepts a string as input. It should return a boolean. Tru
 
 
 Examples:  
-"A Toyotas a Toyota" -> True  
-"otto" -> True  
-"Godzilla!" -> False  
-"Hostess" -> False  
+`"A Toyotas a Toyota"` -> `True`  
+`"otto"` -> `True`  
+`"Godzilla!"` -> `False`  
+`"Hostess"` -> `False`  
 
 Solutions:
 ```python
@@ -54,9 +54,9 @@ Write a function that accepts 2 strings as input. The function should search the
 The function should return the index of the first occurrence of the second string within the first string. If the string has no occurrences, the function should return -1.  
 
 Examples:  
-"abcdef", "de" -> 3  
-"quartz crystals", "z c" -> 5  
-"Spanish Inquisition", "Nobody expects" -> -1  
+`"abcdef", "de"` -> `3`  
+`"quartz crystals", "z c"` -> `5`  
+`"Spanish Inquisition", "Nobody expects"` -> `-1`  
 
 Solutions:  
 ```python
@@ -68,10 +68,10 @@ Solutions:
 Write a function that accepts 2 strings as input. The function should return a list based on dividing the first string by the second string. It should mimic the behavior of str.split(). If no character is passed in, the function should return the string divided by each character (ie, a list version of the string.)
 
 Examples:  
-"Hello my name is Liz", " " -> ["Hello", "my", "name", "is", "Liz"]  
-"'Holy Smurf!' said Poppa Smurf, because the Smurfberries were gone!", "Smurf" -> ["'Holy ", "!' said Poppa", ", because the ", "berries were gone!"]  
-"abcd" -> ["a", "b", "c", "d"]  
-"hello all you happy people", "droopy" -> ["hello all you happy people"]  
+`"Hello my name is Liz", " "` -> `["Hello", "my", "name", "is", "Liz"]`  
+`"'Holy Smurf!' said Poppa Smurf, because the Smurfberries were gone!", "Smurf"` -> `["'Holy ", "!' said Poppa", ", because the ", "berries were gone!"]`  
+`"abcd"` -> `["a", "b", "c", "d"]`  
+`"hello all you happy people", "droopy"` -> `["hello all you happy people"]`  
 
 Solutions:  
 ```python
