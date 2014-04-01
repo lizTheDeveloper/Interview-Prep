@@ -1,5 +1,7 @@
 List Searching
 ==============
+In this module, students should be able to give the time complexity and space complexity of their function. They should also be able to improve on functions that operate in greater than linear time.   
+
 ##Goals##
 
 * Familiarization with searching lists given criteria
@@ -12,6 +14,9 @@ List Searching
 	* map() and set()
 	* x in l / x not in l
 * Beginning Big O Notation
+* Whiteboarding
+	* Iterating on a whiteboard solution
+	* Refactoring a whiteboard solution
 
 
 ##Missing Number##
