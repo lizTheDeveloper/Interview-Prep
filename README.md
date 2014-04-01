@@ -10,11 +10,11 @@ Basic functions
 	2. [Palindromes](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#palindromes)
 	3. [Substr](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#substr)
 	4. [Split](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#split)
-2. List Searching
-	1. Missing Number
-	2. Highest Int
-	3. Highly Divisible
-	4. Binary Search (and others)
+2. [List Searching](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md)
+	1. [Missing Number](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#missing-number)
+	2. [Highest Int](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highest-int)
+	3. [Highly Divisible](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highly-divisible)
+	4. [Binary Search](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#binary-search)
 3. List Sorting
 	1. Sorts
 		1. bubble
