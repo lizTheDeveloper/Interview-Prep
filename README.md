@@ -226,6 +226,10 @@ Brain Teasers
 	2. 100 bottles of wine, one is poisoned - you have an hour, poison takes an hour, fewest number of servants
 3. Other Problems
 	1. box with water and a boat, throw something off boat - water level rise or fall or stay the same?
+	2. fox, sheep, wheat
+	3. lightbulb in a house - feel the lightbulb
+	4. 3000 apples - truck driver eats an apple every meter, go 1000 meters, how many apples can make it?
+	5. the mouse - where is the randomly moving mouse?
 4. Problems in the Real World
 		
 ##Unit Design##
