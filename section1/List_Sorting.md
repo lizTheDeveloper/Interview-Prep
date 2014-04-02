@@ -94,7 +94,7 @@ x = 5
 
 ##Pivot##
 ###Exercise###
-Given an unordered list of integers, find the center integer. Then, move all integers higher than the center integer to an index position higher than the center integer's position, and all integers lower than the center integer to an index position lower than the center integer's position.
+Given an unordered list of integers, find the median integer. Then, move all integers greater than the median integer to an index position greater than the median integer's position, and all integers lower than the median integer to an index position lower than the median integer's position.
 
 
 Examples:  
