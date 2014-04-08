@@ -15,6 +15,12 @@ Basic functions
 	2. [Highest Int](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highest-int)
 	3. [Highly Divisible](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highly-divisible)
 	4. [Binary Search](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#binary-search)
+3. [Recursion](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md)
+	1. [Fibonacci Recursion](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#fibonacci-recursion)
+	2. Recursive List Manipulations
+		1. [Length](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-length)
+		2. [Reverse](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-reverse)
+		3. [Find](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-find)
 
 ##Concepts##
 1. Big O Notation  
