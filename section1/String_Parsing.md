@@ -31,7 +31,6 @@ def reverse(s):
 ##Palindromes##
 Time Limit: 15 minutes  
 Completion Target: 5 minutes  
-Students should be able to eve
 ###Exercise###
 Write a function that accepts a string as input. It should return a boolean. True, if the string is a Palindrome. False, if the string is not. A Palindrome is the same string backwards and forwards, independent of case or spaces.
 
