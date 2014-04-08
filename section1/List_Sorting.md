@@ -12,6 +12,8 @@ Students should be able to implement several sorting algorithms, and be able to 
 http://stackoverflow.com/questions/471199/what-is-the-difference-between-n-and-on  
 
 ##Bubble Sort##
+Time Limit: 20 minutes  
+Completion Target: 10 minutes  
 ###Exercise###
 Given an unordered list of integers, implement Bubble Sort, return the sorted list.  
 What is the time complexity?  
@@ -33,6 +35,8 @@ x = 5
 ```
 
 ##Merge Sort##
+Time Limit: 40 minutes  
+Completion Target: 15 minutes  
 ###Exercise###
 Given an unordered list of integers, implement Merge Sort, return the sorted list.
 What is the time complexity?  
@@ -54,6 +58,8 @@ x = 5
 ```
 
 ##Quicksort##
+Time Limit: 40 minutes  
+Completion Target: 20 minutes  
 ###Exercise###
 Given an unordered list of integers, implement QuickSort, return the sorted list.
 What is the time complexity?  
@@ -74,6 +80,8 @@ x = 5
 ```
 
 ##Top 10##
+Time Limit: 20 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given an unordered list of integers, return the 10 highest integers.
 
@@ -93,6 +101,8 @@ x = 5
 ```
 
 ##Pivot##
+Time Limit: 30 minutes  
+Completion Target: 15 minutes  
 ###Exercise###
 Given an unordered list of integers, find the median integer. Then, move all integers greater than the median integer to an index position greater than the median integer's position, and all integers lower than the median integer to an index position lower than the median integer's position.
 

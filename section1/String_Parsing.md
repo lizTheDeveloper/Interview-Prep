@@ -8,7 +8,8 @@ String Parsing
 
 
 ##Reverse##
-
+Time Limit: 10 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Write a function that accepts a string as input. It should return that string, reversed. You are not allowed to use inbuilt methods.
 
@@ -28,6 +29,9 @@ def reverse(s):
 ```
 
 ##Palindromes##
+Time Limit: 15 minutes  
+Completion Target: 5 minutes  
+Students should be able to eve
 ###Exercise###
 Write a function that accepts a string as input. It should return a boolean. True, if the string is a Palindrome. False, if the string is not. A Palindrome is the same string backwards and forwards, independent of case or spaces.
 
@@ -50,6 +54,8 @@ def palindrome(s):
 
 ##Substr##
 ###Exercise###
+Time Limit: 15 minutes  
+Completion Target: 5 minutes  
 Write a function that accepts 2 strings as input. The function should search the first string for any occurrence of the second string.  
 The function should return the index of the first occurrence of the second string within the first string. If the string has no occurrences, the function should return -1.  
 
@@ -64,6 +70,8 @@ Solutions:
 ```
 
 ##Split##
+Time Limit: 15 minutes  
+Completion Target: 7-10 minutes  
 ###Exercise###
 Write a function that accepts 2 strings as input. The function should return a list based on dividing the first string by the second string. It should mimic the behavior of str.split(). If no character is passed in, the function should return the string divided by each character (ie, a list version of the string.)
 

@@ -12,6 +12,8 @@ Math Problems
 
 
 ##Primes##
+Time Limit: 20 minutes  
+Completion Target: 10 minutes  
 ###Exercise###
 Given an integer, determine if the integer is prime.
 
@@ -30,12 +32,32 @@ x = 5
 ```
 
 ##Factorial##
+Time Limit: 10 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given a number, return n! 
 
 Examples:  
 `5` -> 120
 `10` -> 3628800
+
+
+Solutions:  
+```python
+x = 5
+```
+
+##List Factors##
+Time Limit: 20 minutes  
+Completion Target: 10 minutes  
+###Exercise###
+Given a number, list it's prime factors
+
+Advanced:  
+Given 2 numbers, list the greatest common factor
+
+Examples:  
+ 
 
 
 Solutions:  

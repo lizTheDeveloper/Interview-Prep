@@ -16,6 +16,8 @@ Recursion
 
 
 ##Fibonacci Recursion##
+Time Limit: 15 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given a number n, return a list containing a sequence of n fibonacci numbers starting with 1. This should be implemented recursively.
 
@@ -35,6 +37,8 @@ x = 5
 ```
 
 ##Recursive List Length##
+Time Limit: 15 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given a list, return it's length using recursion
 
@@ -49,6 +53,8 @@ x = 5
 ```
 
 ##Recursive List Reverse##
+Time Limit: 25 minutes  
+Completion Target: 10 minutes  
 ###Exercise###
 Given a list, return a reversed copy of that list, using recursion  
 
@@ -63,6 +69,8 @@ x = 5
 ```
 
 ##Recursive List Find##
+Time Limit: 20 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given a list and a value to search for, return the index of that value, using recursion  
 

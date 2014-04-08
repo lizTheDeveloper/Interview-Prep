@@ -20,6 +20,8 @@ In this module, students should be able to give the time complexity and space co
 
 
 ##Missing Number##
+Time Limit: 20 minutes  
+Completion Target: 10 minutes  
 ###Exercise###
 Write a function that takes a list as input. It is given that the list will contain every integer from 0..n+1, unordered, except one random integer. Return the missing integer.
 
@@ -35,6 +37,8 @@ x = 5
 ```
 
 ##Highest Int##
+Time Limit: 15 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given an unordered list of integers, return the highest value.
 
@@ -49,6 +53,8 @@ x = 5
 ```
 
 ##Highly Divisible##
+Time Limit: 30 minutes  
+Completion Target: 15 minutes  
 ###Exercise###
 Given an ordered list of integers, find the integer that is divisible by the most other integers in the list. 
 
@@ -64,6 +70,8 @@ x = 5
 ```
 
 ##Binary Search##
+Time Limit: 20 minutes  
+Completion Target: 5 minutes  
 ###Exercise###
 Given an ordered list of integers, and an integer to search for, return the index of the requested integer. Do this in sub-linear time.
 
