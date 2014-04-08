@@ -15,24 +15,6 @@ Basic functions
 	2. [Highest Int](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highest-int)
 	3. [Highly Divisible](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highly-divisible)
 	4. [Binary Search](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#binary-search)
-3. [List Sorting](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md)
-	1. Sorts
-		1. [bubble](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#bubble-sort)
-		2. [merge](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#merge-sort)
-		3. [quick](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#quicksort)
-	2. Partial Sorts
-		1. [find top ten](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
-		2. [pivot](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
-4. Math Things
-	1. Prime Numbers
-		1. return the nth prime
-	2. Factorials
-		1. what is n!
-		2. largest common factor of two numbers
-	3. Fib
-		1. fib recursive
-		2. fib non recursive
-		3. fib with caching?
 
 ##Concepts##
 1. Big O Notation  
@@ -44,6 +26,7 @@ Basic functions
 	5. How to ask clarifying questions
 3. Basic Logic
 4. Problem Structure  
+5. Recursion  
 
 ##Unit Design##
 Students are given a number of minutes (decreasing each day) to complete several problems on paper in the lecture hall. After that number of minutes elapses, students who have completed their questions are asked to demonstrate it on the board. Lecturers go over the different strategies used, and critique the efficiency and effectiveness of the solution. TAs are needed to check the validity of student's work, as it is on paper. Lecturers should strive to talk over the skills covered by each exercise, because some solutions to come problems may miss key concepts.  
@@ -69,6 +52,28 @@ Exercises are meant to get students comfortable with solving problems without an
 [140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)
 [Math-heavy Big O Notation](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
 [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+
+###Bonus Material###
+1. [List Sorting](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md)
+	1. Sorts
+		1. [bubble](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#bubble-sort)
+		2. [merge](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#merge-sort)
+		3. [quick](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#quicksort)
+	2. Partial Sorts
+		1. [find top ten](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
+		2. [pivot](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
+2. Math Things
+	1. Prime Numbers
+		1. return the nth prime
+		2. isPrime
+	2. Factorials
+		1. what is n!
+		2. largest common factor of two numbers
+	3. Fib
+		1. fib recursive
+		2. fib non recursive
+		3. fib with caching?
+
 
 Data Structure Enhancements
 ===========================
@@ -96,7 +101,7 @@ These exercises are longer and should be done in breakout sessions on various wh
 
 Weaker students during this time will get the help they need with problem solving in general, and do not need the additional efficiency and complexity training that stronger students need, as they will typically end up in jobs where completing the problem presented in the interview is sufficient. 
 
-Stronger students should focus their efforts on understanding the efficiency and complexity of problems that "build" on the concepts that the weaker students solve, as they will be more apt to face tougher interview questions with more room to express efficiency and understanding. 
+Stronger students should focus their efforts on understanding the efficiency and complexity of problems that "build" on the concepts that the weaker students solve, as they will be more apt to face tougher interview questions with more room to express efficiency and understanding.  
 
 ##Suggested Reading##
 ###Hackbright Videos###
@@ -307,6 +312,7 @@ Software Engineering
 ###Books###
 ###Relevant Exercises###
 ###Other Resources###
+
 
 
 
