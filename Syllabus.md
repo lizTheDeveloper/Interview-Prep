@@ -8,4 +8,4 @@ A lecture will be given on basic problem solving, and whiteboard strategy. A few
 ###Day 2###
 A lecture on Big O notation will be given, and several improvements to problems that have been solved will be discussed in terms of efficiency. Further exercises in Section 1 should be worked, along with bonus material if the student so desires.
 
-##Section 2## 
+##Section 2##

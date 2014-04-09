@@ -38,25 +38,16 @@ Students are given a number of minutes (decreasing each day) to complete several
   
 Exercises are meant to get students comfortable with solving problems without an IDE present, with making mistakes, and with timed problem solving. Social pressure should be applied, but is not the main focus of this unit.  
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 [Programming Interviews w/Noah Kindler](http://vimeo.com/79718197)  
 ###Books###
 [Programming Interviews Exposed](http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)  
 [Cracking The Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)  
 
-###Relevant Exercises###
-[Exercise 1](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise01)
-[Exercise 2](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise02)
-[Exercise 3](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise03)
-[Exercise 4](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise04)
-[Exercise 5](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise05)
-[Exercise 6](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise06)
-[Exercise 7](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise07)
-
 ###Other Resources###
-[140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)
-[Math-heavy Big O Notation](http://www.leda-tutorial.org/en/official/ch02s02s03.html)
-[Big-O Cheat Sheet](http://bigocheatsheet.com/)
+[140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)  
+[Math-heavy Big O Notation](http://www.leda-tutorial.org/en/official/ch02s02s03.html)  
+[Big-O Cheat Sheet](http://bigocheatsheet.com/)  
 
 ###Bonus Material###
 1. [List Sorting](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md)
@@ -109,7 +100,6 @@ Weaker students during this time will get the help they need with problem solvin
 Stronger students should focus their efforts on understanding the efficiency and complexity of problems that "build" on the concepts that the weaker students solve, as they will be more apt to face tougher interview questions with more room to express efficiency and understanding.  
 
 ##Suggested Reading##
-###Hackbright Videos###
 
 ###Books###
 
@@ -153,7 +143,7 @@ Problems here are designed to reintroduce students to Object Oriented Programmin
 Weaker students will be mostly focused on understanding the difference between an object and a reference, whereas stronger students will be more focused on complex structures such as red-black trees and graphs.
 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 [Object Oriented Programming Lecture](http://vimeo.com/76652734)
 ###Books###
 
@@ -189,7 +179,7 @@ Students by this time should be more comfortable with creating classes and objec
 
 Weaker students may not be able to complete the latter portions of this unit, but should understand how to use classes. 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 [Object Oriented Programming Lecture](http://vimeo.com/76652734)
 ###Books###
 
@@ -218,7 +208,7 @@ The difficulty of this unit should restore the confidence of students struggling
 
 This module should also introduce syntax looseness - shortening of variable names, not bothering to write boilerplate code, and should make students comfortable with working through a large problem on a whiteboard by intentionally choosing what to complete, and what to demonstrate mastery of verbally. 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 [Some Video](http://vimeo.com/70713816)
 ###Books###
 
@@ -246,7 +236,7 @@ Brain Teasers
 Brain Teasers as a module is designed to familiarize students with the process of solving something that does not involve using code. Problems around estimation, order of magnitude, and problems that involve computer science concepts without computers. Teaching students to spot computer science problems in the real world will help them come across better in interviews, and teach them not to get stuck by problems whose solution is not obvious. The idea of real-world problems being solved mathematically will be best absorbed by students with a strong math background, but all students should be able to benefit from this unit.
 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 [Some Video](http://vimeo.com/70764383)
 ###Books###
 
@@ -272,7 +262,7 @@ Pairing - review
 This is less a module and more a suggestion to our students to pair with their mentors, and what they should do on their own to study. 
 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 ###Books###
 ###Relevant Exercises###
 ###Other Resources###
@@ -287,7 +277,7 @@ Technology
 	3. Understand what a post body looks like / URL Encoding
 			
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 [Some Video](http://vimeo.com/89469263)
 ###Books###
 ###Relevant Exercises###
@@ -300,7 +290,7 @@ Databases
 3. Indexes & Constraints
 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 ###Books###
 ###Relevant Exercises###
 ###Other Resources###
@@ -313,7 +303,7 @@ Software Engineering
 4. Explain Dynamic Programming
 
 ##Suggested Reading##
-###Hackbright Videos###
+###Videos###
 ###Books###
 ###Relevant Exercises###
 ###Other Resources###
