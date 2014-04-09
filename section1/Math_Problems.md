@@ -75,8 +75,8 @@ Given n, return a sequence of fibonacci numbers that is of length n. Solve this 
 Given n, return a sequence of fibonacci numbers that is of length n. Solve this, but so that subsequent calls to this function do not require recalculation.
 
 Examples:  
-`5` -> `[1,1,2,3,5]`
-`15` -> `[1,1,2,3,5,8,13,21,34,55,89,144,233,377]`
+`5` -> `[1,1,2,3,5]`  
+`15` -> `[1,1,2,3,5,8,13,21,34,55,89,144,233,377]`  
 
 Solutions:  
 ```python
