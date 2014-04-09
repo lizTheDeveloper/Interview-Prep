@@ -59,16 +59,17 @@ Exercises are meant to get students comfortable with solving problems without an
 		1. [find top ten](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
 		2. [pivot](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
 2. Math Things
-	1. Prime Numbers
+	1. [Prime Numbers](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#primes)
 		1. return the nth prime
 		2. isPrime
 	2. Factorials
-		1. what is n!
-		2. largest common factor of two numbers
-	3. Fib
-		1. fib recursive
-		2. fib non recursive
-		3. fib with caching?
+		1. [n Factorial](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#factorial)
+		2. [List Prime Factors](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#list-factors)
+		3. Greatest Common Factor
+	3. Fibonacci
+		1. Fibonacci with recursion
+		2. Fibonacci iteratively
+		3. Fibonacci with caching
 
 
 Data Structure Enhancements
@@ -80,7 +81,7 @@ Data Structure Enhancements
 	3. Roman Numerals
 2. How To Write Your Own Hash Map
 3. Other Ways To Hold On To Things
-	1.Variables
+	1. Variables
 	2. Lists
 	3. Dictionaries
 	4. Sets
