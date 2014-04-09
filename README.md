@@ -4,22 +4,22 @@ Basic functions
 ================
 
 ##Exercises##
-1. [String Parsing](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md)
-	1. [Reverse](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#reverse)
-	2. [Palindromes](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#palindromes)
-	3. [Substr](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#substr)
-	4. [Split](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/String_Parsing.md#split)
-2. [List Searching](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md)
-	1. [Missing Number](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#missing-number)
-	2. [Highest Int](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highest-int)
-	3. [Highly Divisible](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#highly-divisible)
-	4. [Binary Search](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Searching.md#binary-search)
-3. [Recursion](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md)
-	1. [Fibonacci Recursion](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#fibonacci-recursion)
+1. [String Parsing](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/String_Parsing.md)
+	1. [Reverse](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/String_Parsing.md#reverse)
+	2. [Palindromes](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/String_Parsing.md#palindromes)
+	3. [Substr](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/String_Parsing.md#substr)
+	4. [Split](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/String_Parsing.md#split)
+2. [List Searching](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Searching.md)
+	1. [Missing Number](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Searching.md#missing-number)
+	2. [Highest Int](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Searching.md#highest-int)
+	3. [Highly Divisible](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Searching.md#highly-divisible)
+	4. [Binary Search](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Searching.md#binary-search)
+3. [Recursion](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/Recursion.md)
+	1. [Fibonacci Recursion](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/Recursion.md#fibonacci-recursion)
 	2. Recursive List Manipulations
-		1. [Length](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-length)
-		2. [Reverse](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-reverse)
-		3. [Find](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-find)
+		1. [Length](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-length)
+		2. [Reverse](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-reverse)
+		3. [Find](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/Recursion.md#recursive-list-find)
 
 ##Concepts##
 1. Big O Notation  
