@@ -45,13 +45,13 @@ Exercises are meant to get students comfortable with solving problems without an
 [Cracking The Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)  
 
 ###Relevant Exercises###
-[Exercise 1](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise01)
-[Exercise 2](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise02)
-[Exercise 3](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise03)
-[Exercise 4](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise04)
-[Exercise 5](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise05)
-[Exercise 6](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise06)
-[Exercise 7](https://github.com/hackbrightacademy/Hackbright-Curriculum/tree/master/Exercise07)
+[Exercise 1](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise01)
+[Exercise 2](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise02)
+[Exercise 3](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise03)
+[Exercise 4](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise04)
+[Exercise 5](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise05)
+[Exercise 6](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise06)
+[Exercise 7](https://github.com/lizthedeveloper/Hackbright-Curriculum/tree/master/Exercise07)
 
 ###Other Resources###
 [140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)
@@ -59,14 +59,14 @@ Exercises are meant to get students comfortable with solving problems without an
 [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ###Bonus Material###
-1. [List Sorting](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md)
+1. [List Sorting](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md)
 	1. Sorts
-		1. [bubble](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#bubble-sort)
-		2. [merge](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#merge-sort)
-		3. [quick](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#quicksort)
+		1. [bubble](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#bubble-sort)
+		2. [merge](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#merge-sort)
+		3. [quick](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#quicksort)
 	2. Partial Sorts
-		1. [find top ten](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
-		2. [pivot](https://github.com/hackbrightacademy/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
+		1. [find top ten](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
+		2. [pivot](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
 2. Math Things
 	1. Prime Numbers
 		1. return the nth prime
