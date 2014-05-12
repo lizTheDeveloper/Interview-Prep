@@ -175,11 +175,11 @@ Weaker students will be mostly focused on understanding the difference between a
 ###Relevant Exercises###
 
 ###Other Resources###
-[Linked Lists](http://interactivepython.org/courselib/static/pythonds/BasicDS/linkedlists.html)
-[Implementing a Linked List](http://interactivepython.org/courselib/static/pythonds/BasicDS/linkedlists.html#implementing-an-unordered-list-linked-lists)
-[Trees](http://interactivepython.org/courselib/static/pythonds/Trees/trees.html)
-[Trees as a data structure (Wikipedia)](http://en.wikipedia.org/wiki/Tree_(data_structure))
-[Graphs](http://interactivepython.org/courselib/static/pythonds/Graphs/graphintro.html)
+[Linked Lists](http://interactivepython.org/courselib/static/pythonds/BasicDS/linkedlists.html)  
+[Implementing a Linked List](http://interactivepython.org/courselib/static/pythonds/BasicDS/linkedlists.html#implementing-an-unordered-list-linked-lists)  
+[Trees](http://interactivepython.org/courselib/static/pythonds/Trees/trees.html)  
+[Trees as a data structure (Wikipedia)](http://en.wikipedia.org/wiki/Tree_(data_structure))  
+[Graphs](http://interactivepython.org/courselib/static/pythonds/Graphs/graphintro.html)  
 
 OOP Concepts
 ============
