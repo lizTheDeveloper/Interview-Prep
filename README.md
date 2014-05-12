@@ -1,5 +1,18 @@
 #Interview Prep#
 
+##Structure##
+* Syllabus
+* Section One - Basic Functions
+* Section Two - Data Structures
+* Section Three - Linked Lists, Trees, Graphs
+* Section Four - Object Oriented Programming
+* Section Five - Problem Solving for Longer Problems
+* Section Six - Brain Teasers
+* Section Seven - Pairing
+* Section Eight - Technology
+* Section Nine - Databases
+* Section Ten - Software Engineering
+
 Basic functions
 ================
 
@@ -66,13 +79,13 @@ Exercises are meant to get students comfortable with solving problems without an
 		1. [n Factorial](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#factorial)
 		2. [List Prime Factors](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#list-factors)
 		3. Greatest Common Factor
-	3. Fibonacci
+	3. [Fibonacci](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#exercise-3)
 		1. Fibonacci with recursion
 		2. Fibonacci iteratively
 		3. Fibonacci with caching
 
 
-Data Structure Enhancements
+Data Structures
 ===========================
 ##Exercises##
 1. The Answer Is Dictionaries
@@ -80,12 +93,22 @@ Data Structure Enhancements
 	2. Are all the letters from string a in string b?
 	3. Roman Numerals
 2. How To Write Your Own Hash Map
-3. Other Ways To Hold On To Things
+3. Stacks
+4. Queues
+5. Heaps
+6. Keeping Your Data Organized
 	1. Variables
+		1. Keeping Pointers
+		2. Keeping Counters
 	2. Lists
+		1. Using Lists as Stacks
+		2. Using Lists as Queues
 	3. Dictionaries
+		1. When to use a dictionary
+		2. Hash Map Properties
 	4. Sets
-	5. Objects!
+		1. Using Sets instead of Hash Maps
+		2. Using Sets and Length
 
 ##Concepts##
 * Data structure as it relates to efficiency
@@ -101,14 +124,15 @@ Weaker students during this time will get the help they need with problem solvin
 Stronger students should focus their efforts on understanding the efficiency and complexity of problems that "build" on the concepts that the weaker students solve, as they will be more apt to face tougher interview questions with more room to express efficiency and understanding.  
 
 ##Suggested Reading##
-
+[Stacks](http://interactivepython.org/runestone/static/pythonds/BasicDS/stacks.html)
+[Queues](http://interactivepython.org/runestone/static/pythonds/BasicDS/queues.html)
 ###Books###
 
 ###Relevant Exercises###
 
 ###Other Resources###
 
-Trees / Linked Lists
+Linked Lists, Trees, Graphs
 ====================
 1. Linked Lists
 	1. Find Tail
@@ -151,7 +175,11 @@ Weaker students will be mostly focused on understanding the difference between a
 ###Relevant Exercises###
 
 ###Other Resources###
+[Linked Lists](http://interactivepython.org/courselib/static/pythonds/BasicDS/linkedlists.html)
+[Implementing a Linked List](http://interactivepython.org/courselib/static/pythonds/BasicDS/linkedlists.html#implementing-an-unordered-list-linked-lists)
+[Trees](http://interactivepython.org/courselib/static/pythonds/Trees/trees.html)
 [Trees as a data structure (Wikipedia)](http://en.wikipedia.org/wiki/Tree_(data_structure))
+[Graphs](http://interactivepython.org/courselib/static/pythonds/Graphs/graphintro.html)
 
 OOP Concepts
 ============
@@ -195,6 +223,7 @@ Longer Problems
 	1. Given a set of coin denominators, find the minimum number of coins to give a certain amount of change.
 	2. Given an array, i) find the longest continuous increasing subsequence. ii) find the longest increasing subsequence.
 	3.Predictive Text / Spell Checker
+	4. Shunting yard (roman numerals, prefix notation)
 
 ##Concepts##
 * Stubbing Functions
@@ -312,7 +341,11 @@ Software Engineering
 
 
 
-Resources:
-http://www.impactinterview.com/2009/10/140-google-interview-questions/
-http://en.wikipedia.org/wiki/Design_Patterns
-http://en.wikipedia.org/wiki/Tree_(data_structure)
+Resources:  
+http://www.impactinterview.com/2009/10/140-google-interview-questions/  
+http://en.wikipedia.org/wiki/Design_Patterns  
+http://en.wikipedia.org/wiki/Tree_(data_structure)  
+https://github.com/flatiron-school/prework.flatironschool.com  
+https://github.com/nyghtowl/Interview_Problems  
+https://github.com/mmihaljevic/algortihms_challenges  
+Topcoder.com  
