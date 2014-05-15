@@ -3,6 +3,10 @@ Syllabus
 
 ##Section 1##
 ###Day 1###
+Intros, interview discussion
+Ask the laundry question
+Ask the coffee shop question
+Talk about the deck of cards question
 A lecture will be given on basic problem solving, and whiteboard strategy. A few problems will be worked through. Students will attempt exercises on paper using the time limits provided. Once students solve a set of problems, they should perform their solutions on a whiteboard and be able to explain their thought process to a group of their peers in groups of 3-5. 
 
 ###Day 2###
@@ -19,3 +23,22 @@ Covered:
 * Dictionaries
 * Lists
 
+
+
+Notes for Day 1:
+Liz:
+Run the enterprise
+	Focus on operations on the bridge
+	between people
+
+Ashi:
+	Roles - defines roles
+
+Liz:
+	How would those people interact?
+
+Draw a distributed systems graph
+
+how would 2 ships interact
+
+here's a mission - from an actual star trek episode :D 
