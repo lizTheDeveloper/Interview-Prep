@@ -135,9 +135,9 @@ Stronger students should focus their efforts on understanding the efficiency and
 Linked Lists, Trees, Graphs
 ====================
 1. Linked Lists
-	1. Find Tail
-	2. Find Loops
-	3. Find Kth Element
+	1. [Find Tail](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section3/Linked_Lists.md)
+	2. [Find Loops](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section3/Linked_Lists.md)
+	3. [Find Kth Element](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section3/Linked_Lists.md)
 2. Trees
  	1. DFS
 	2. BFS
