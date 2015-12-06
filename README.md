@@ -76,7 +76,8 @@ Exercises are meant to get students comfortable with solving problems without an
 [Programming Interviews w/Noah Kindler](http://vimeo.com/79718197)  
 ###Books###
 [Programming Interviews Exposed](http://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364/)  
-[Cracking The Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)  
+[Cracking The Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
+[Big O Notation Explained](https://www.youtube.com/watch?v=KSNx22U4uWE)
 
 ###Other Resources###
 [140 Google Interview Questions](http://www.impactinterview.com/2009/10/140-google-interview-questions/)  
@@ -92,7 +93,7 @@ Exercises are meant to get students comfortable with solving problems without an
 	2. Partial Sorts
 		1. [find top ten](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#top-10)
 		2. [pivot](https://github.com/lizthedeveloper/Interview-Prep/blob/master/section1/List_Sorting.md#pivot)
-2. Math Things
+2. Using Math To Solve Problems
 	1. [Prime Numbers](https://github.com/lizTheDeveloper/Interview-Prep/blob/master/section1/Math_Problems.md#primes)
 		1. return the nth prime
 		2. isPrime
