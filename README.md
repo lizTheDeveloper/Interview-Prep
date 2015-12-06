@@ -5,7 +5,9 @@ These course materials are designed to prepare you for a technical whiteboarding
 Unfortunately, the skills you must aquire in order to pass a whiteboarding interview are dissimilar to those that you learned when you learned programming. You will still need this programming knowledge, and you will need the problem-solving skills you've picked up while learning to program, but because you're not going to be in an idealized programming environment, you must be able to program in unfamiliar environments.
 
 If you are a senior developer, you can probably make it through this curriculum in two weeks.  
+
 A mid-level developer will range from 3-6 weeks.  
+
 Junior developers may take anywhere from 6 to 12 weeks to finish this course.  
 
 ##Structure##
