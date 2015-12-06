@@ -119,7 +119,7 @@ Data Structures
 ##Unit Design##
 These exercises are longer and should be done in breakout sessions on various whiteboards. Emphasis is more on problem solving than speed, and making conceptual leaps out loud. This unit is designed to introduce social pressure while making conceptual leaps. Experimenting with group size should be done to find the right mix of pressure and even coverage of problems to students. Problems should be done in sets of increasing difficulty, so weaker students should attempt the early problems, and stronger students should attempt the later problems. 
 
-Weaker students during this time will get the help they need with problem solving in general, and do not need the additional efficiency and complexity training that stronger students need, as they will typically end up in jobs where completing the problem presented in the interview is sufficient. 
+Weaker students during this time will get the help they need with problem solving in general, and do not need the additional efficiency and complexity training that stronger students need, as they will typically end up in interviews where completing the problem presented in the interview is sufficient. 
 
 Stronger students should focus their efforts on understanding the efficiency and complexity of problems that "build" on the concepts that the weaker students solve, as they will be more apt to face tougher interview questions with more room to express efficiency and understanding.  
 
@@ -163,7 +163,7 @@ Linked Lists, Trees, Graphs
 * Diagramming
 
 ##Unit Design##
-Problems here are designed to reintroduce students to Object Oriented Programming, as they likely have not written much in the way of classes outside of SQLAlchemy. It will remind them that Objects are a data structure unto themselves. It it also meant to introduce students to more complex algorithms, and graph problems. Many students may have tackled graph-style problems in their projects, but have likely used a library that handled data structures for them, so will need to be reintroduced to these concepts.
+Problems here are designed to reintroduce students to Object Oriented Programming, as they likely have not written much in the way of classes outside of an ORM. It will remind them that Objects are a data structure unto themselves. It it also meant to introduce students to more complex algorithms, and graph problems. Many students may have tackled graph-style problems in their projects, but have likely used a library that handled data structures for them, so will need to be reintroduced to these concepts.
 
 Weaker students will be mostly focused on understanding the difference between an object and a reference, whereas stronger students will be more focused on complex structures such as red-black trees and graphs.
 
@@ -186,10 +186,12 @@ OOP Concepts
 1. Building
 	1. Card games
 	2. Chess
+	3. RoShamBo
+	4. Tic Tac Toe
 2. Vocab
-	1. encapsulation
+	1. Encapsulation
 	2. Polymorphism
-	3. Inheritance (versus)
+	3. Inheritance
 	4. Composition
 3. Patterns
 	1. Inheritence
@@ -239,7 +241,7 @@ The difficulty of this unit should restore the confidence of students struggling
 This module should also introduce syntax looseness - shortening of variable names, not bothering to write boilerplate code, and should make students comfortable with working through a large problem on a whiteboard by intentionally choosing what to complete, and what to demonstrate mastery of verbally. 
 ##Suggested Reading##
 ###Videos###
-[Some Video](http://vimeo.com/70713816)
+
 ###Books###
 
 ###Relevant Exercises###
@@ -282,6 +284,7 @@ Vi Hart Videos
 	http://www.youtube.com/watch?v=e4MSN6IImpI&list=SPF7CBA45AEBAD18B8
 	http://www.youtube.com/watch?v=a-e8fzqv3CE&list=PLC20F52B96F3E8206
 		
+
 Pairing - review
 ================
 1. Pairing on code
@@ -296,6 +299,8 @@ This is less a module and more a suggestion to our students to pair with their m
 ###Books###
 ###Relevant Exercises###
 ###Other Resources###
+
+
 Technology
 ==========
 1. How does the internet work?
@@ -316,7 +321,17 @@ Technology
 Databases
 ==========
 1. Schema Design
+	1. Create schema for a book-trading website
+	2. Create a schema for a kingdom that exports many kinds of fruit and vegetables
+		1a. Add tarrifs
+		1b. Add suppliers
+		1c. Add imports
+		1d. Write some queries against these tables
+	3. Create a schema for a ticket sales website
 2. Write SQL Queries
+	1. Get current LTV (lifetime value) of a user by totaling their orders
+	2. Get LTV of all users by state
+	3. Get LTV of all users that have come in through a certain refferal campaign 
 3. Indexes & Constraints
 
 ##Suggested Reading##
