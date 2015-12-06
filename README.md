@@ -1,5 +1,13 @@
 #Interview Prep#
 
+These course materials are designed to prepare you for a technical whiteboarding interview at a tech company in San Francisco. The main point of these interviews is to see what your problem-solving skills are like, to see how you think through things, how you behave under pressure, and to test your memory of syntax of a programming language.
+
+Unfortunately, the skills you must aquire in order to pass a whiteboarding interview are dissimilar to those that you learned when you learned programming. You will still need this programming knowledge, and you will need the problem-solving skills you've picked up while learning to program, but because you're not going to be in an idealized programming environment, you must be able to program in unfamiliar environments.
+
+If you are a senior developer, you can probably make it through this curriculum in two weeks.  
+A mid-level developer will range from 3-6 weeks.  
+Junior developers may take anywhere from 6 to 12 weeks to finish this course.  
+
 ##Structure##
 * Syllabus
 * Section One - Basic Functions
@@ -12,6 +20,16 @@
 * Section Eight - Technology
 * Section Nine - Databases
 * Section Ten - Software Engineering
+
+
+## Running This Curriculum
+This course should be started at least four weeks prior to the end of the immersive if it is used for an immersive engineering program. You should cover at least 1 unit per week. It depends on prior, but recent, programming experience. It was designed for use by immersives, but should you wish to run it as a study group you should meet up at least 4 times a week, for 2.5 hours.  
+
+Spend at least an hour each day completing these challenges on paper. Use pencil.
+Spend at least an hour each day practicing doing these challenges on a whiteboard, in front of at least one other person.  
+Spend at least half an hour reading other people's solutions to these problems, and watching other people solve them.  
+
+
 
 Basic functions
 ================
@@ -50,6 +68,7 @@ Basic functions
 Students are given a number of minutes (decreasing each day) to complete several problems on paper in the lecture hall. After that number of minutes elapses, students who have completed their questions are asked to demonstrate it on the board. Lecturers go over the different strategies used, and critique the efficiency and effectiveness of the solution. TAs are needed to check the validity of student's work, as it is on paper. Lecturers should strive to talk over the skills covered by each exercise, because some solutions to come problems may miss key concepts.  
   
 Exercises are meant to get students comfortable with solving problems without an IDE present, with making mistakes, and with timed problem solving. Social pressure should be applied, but is not the main focus of this unit.  
+
 ##Suggested Reading##
 ###Videos###
 [Programming Interviews w/Noah Kindler](http://vimeo.com/79718197)  
